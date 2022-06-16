@@ -1,5 +1,6 @@
+<center>
 ![full-stack-development](https://user-images.githubusercontent.com/68062270/174036172-ddd15a77-4933-4727-a109-4c86b78da246.gif)
-
+</center>
 - 👋 Hi, I’m Reuben Mohan Kurian.
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently learning reactjs.
