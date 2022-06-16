@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68062270/174036172-ddd15a77-4933-4727-a109-4c86b78da246.gif" width=50% height=50%> 
+  <img src="https://user-images.githubusercontent.com/68062270/174036172-ddd15a77-4933-4727-a109-4c86b78da246.gif" width=50% height=50% /> 
 </p>
+
+
 - 👋 Hi, I’m Reuben Mohan Kurian.
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently learning reactjs.
