@@ -9,4 +9,4 @@ Languages I Know:
  [click here](www.google.com)
 
 
-<img src="https://user-images.githubusercontent.com/68062270/174032675-df2bc86d-af36-4019-917d-a1c48498b6d4.jpg" width=10% height=10%>
+<img src="https://user-images.githubusercontent.com/68062270/174032675-df2bc86d-af36-4019-917d-a1c48498b6d4.jpg" width=2% height=2%>
